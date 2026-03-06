@@ -15,6 +15,7 @@ More stuff for samples
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request
 
 ##Copyright
 
