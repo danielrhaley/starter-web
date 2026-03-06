@@ -7,8 +7,10 @@ This is the introduction to the project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+The main purpose is to learn Git and Github
 
 ## Deployment
+
+More stuff for samples
 
 ## How To Contribute
