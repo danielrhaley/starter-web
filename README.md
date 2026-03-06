@@ -14,3 +14,8 @@ The main purpose is to learn Git and Github
 More stuff for samples
 
 ## How To Contribute
+
+
+##Copyright
+
+Copyright 2026 Git.training
