@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request
 
 ##Copyright
 
-Copyright 2026 Git.training
+Copyright 2026 Git.training All Rights Reserved
